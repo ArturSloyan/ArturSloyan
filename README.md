@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  I'm Artur Sloyan, a 21-year-old Application Developer Apprentice at Liebherr Werk Nenzing, currently in my 3rd year of training. I have had the opportunity to explore various areas including frontend, backend, network technology, databases, support, IT administration, DevOps, and ERP Baan, gaining insights into their operations and work processes.
+  I'm Artur Sloyan, a 21-year-old Application Developer Apprentice at Liebherr Werk Nenzing, currently in my 3rd year of training. I have had the opportunity to explore various areas including frontend, backend, network technology, databases, IT support, IT administration and ERP Baan, gaining insights into their operations and work processes.
 </p>
 
 <!-- Detailed bio with icons -->
@@ -99,10 +99,7 @@
 <!-- Footer with social media links -->
 <h3 align="center">Let's Connect</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/artur-sloyan">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:artur.sloyan@example.com">
+  <a href="mailto:sloyan.artur@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
