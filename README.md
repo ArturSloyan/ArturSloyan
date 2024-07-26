@@ -68,7 +68,7 @@
 
 #### Platforms
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
-![Microchip](https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip)
+![Microchip](https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip-technology)
 
 #### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
@@ -80,9 +80,16 @@
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
 
+<!-- GitHub Stats section -->
+### GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=artursloyan&show_icons=true&theme=radical" alt="Artur Sloyan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursloyan&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
 <!-- Footer with social media links -->
 ### Let's Connect
-<p align="center">
+<p>
   <a href="mailto:sloyan.artur@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
