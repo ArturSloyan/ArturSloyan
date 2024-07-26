@@ -63,6 +63,8 @@
 #### Other
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Draw.io](https://img.shields.io/badge/-Draw.io-FF9900?style=flat-square&logo=draw-dot-io)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
 #### Platforms
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
