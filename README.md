@@ -1,6 +1,6 @@
 <!-- Header with professional tone -->
 <h1 align="center">Hi there, I'm Artur Sloyan</h1>
-<h3 align="center">Aspiring Solution Architect & Passionate Problem Solver</h3>
+<h3 align="center">Passionate Problem Solver</h3>
 
 <!-- Introduction -->
 <p align="center">
@@ -19,19 +19,15 @@
 
 - 👨‍👩‍👦‍👦 Friends and Family
 - 🇷🇺 Learning Russian (Can form everyday sentences)
-- 🏐 Volleyball
+- 🥊 Kickboxing
 - 💹 Finance (Investing, Trading)
 
 <!-- Skills section with badges -->
 ### Skills
 
 #### Programming Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=flat-square&logo=visual-studio)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 
@@ -54,11 +50,8 @@
 #### Frameworks
 ![.Net](https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=dotnet)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js)
 
 #### Other
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
@@ -66,13 +59,7 @@
 ![Draw.io](https://img.shields.io/badge/-Draw.io-FF9900?style=flat-square&logo=draw-dot-io)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
-#### Platforms
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
-![Microchip](https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip-technology)
-
 #### Operating Systems
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
-![OpenSuse](https://img.shields.io/badge/-OpenSuse-73BA25?style=flat-square&logo=opensuse)
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D4?style=flat-square&logo=windows)
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D4?style=flat-square&logo=windows)
 
